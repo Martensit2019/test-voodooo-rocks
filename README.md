@@ -1,4 +1,4 @@
-# test-vooddo-rocks
+# test
 
 ## Project setup
 ```
